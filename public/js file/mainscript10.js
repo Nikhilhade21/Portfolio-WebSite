@@ -93,3 +93,4 @@ const nav = document.querySelector(".nav"),
                     allSection[i].classList.toggle("open");
                 }
               }
+              
